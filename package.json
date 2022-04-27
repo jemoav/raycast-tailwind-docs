@@ -15,9 +15,13 @@
     }
   ],
   "dependencies": {
-    "@raycast/api": "^1.33.2"
+    "@raycast/api": "^1.33.2",
+    "axios": "^0.26.1",
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
+    "@types/json2md": "^1.5.1",
+    "@types/lodash": "^4.14.182",
     "@types/node": "~16.10.0",
     "@types/react": "^17.0.28",
     "@typescript-eslint/eslint-plugin": "^5.0.0",
