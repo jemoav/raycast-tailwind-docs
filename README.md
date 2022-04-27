@@ -1,1 +1,1 @@
-# raycast-tailwind-docs
+# Tailwind Docs
